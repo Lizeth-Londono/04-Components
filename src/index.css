@@ -3,29 +3,29 @@
 
 body {
     background-color: #E6E6FA; /* Color morado claro para toda la página */
-    font-family: 'Roboto', sans-serif; /* Usar la fuente Roboto */
-    display: flex; /* Usar flexbox para centrar */
+    font-family: 'Roboto', sans-serif; /* Se usa la fuente Roboto */
+    display: flex; /* Se usa flexbox para centrar */
     justify-content: center; /* Centrar horizontalmente */
-    align-items: center; /* Centrar verticalmente */
-    height: 100vh; /* Ocupa toda la altura de la ventana */
-    margin: 0; /* Eliminar márgenes por defecto */
+    align-items: center; /* Se centra verticalmente */
+    height: 100vh; /* Se ocupa toda la altura de la ventana */
+    margin: 0; /* Se eliminan las márgenes por defecto */
 }
 
 .App {
-    text-align: center; /* Centrar texto dentro de la aplicación */
+    text-align: center; /* Se centra texto dentro de la aplicación */
 }
 
 .App h1 {
     color: purple; /* Color de la letra */
     font-size: 2rem; /* Tamaño de la letra */
     background-color: #D3D3D3; /* Fondo platinado */
-    padding: 10px; /* Espaciado alrededor del texto */
-    border-radius: 5px; /* Bordes redondeados */
+    padding: 10px; /* El espaciado alrededor del texto */
+    border-radius: 5px; /* Los bordes redondeados */
 }
 
 button {
-    margin: 5px; /* Espaciado entre botones */
-    padding: 10px 20px; /* Espaciado dentro de los botones */
+    margin: 5px; /* El espaciado entre botones */
+    padding: 10px 20px; /* El espaciado dentro de los botones */
     font-size: 1rem; /* Tamaño de la letra de los botones */
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    cursor: pointer; /* Se cambia el cursor al pasar sobre el botón */
 }

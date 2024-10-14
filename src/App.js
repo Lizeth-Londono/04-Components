@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';  // Asegúrate de importar el CSS
+import './index.css';  // Se importa el CSS
 import CounterComponent from './CounterComponent';
 
 function App() {
